@@ -44,6 +44,11 @@ Nested @TestConfiguration
 https://taes-k.github.io/2021/05/02/spring-test-container/
 
 
+## 스프링부트에서 DbUnit 을 이용하여 DB 테스트 해보기
+
+
+https://techblog.woowahan.com/2650/
+
 
 ## 기타참고
 
