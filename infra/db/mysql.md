@@ -4,8 +4,6 @@
 https://deeplify.dev/database/troubleshoot/how-to-check-mysql-version
 
 
-
-
 ## mysql dump 옵션
 
 https://xinet.kr/?p=2675
