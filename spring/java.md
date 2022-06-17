@@ -8,3 +8,21 @@
 굳이 이거 하나 때문에 쓸 필요는 없어보인다.
 
 ## Stream
+
+
+
+## 시간 측정 (nanotime vs StopWatch vs currentTimeMillis)
+
+- http://ojc.asia/bbs/board.php?bo_table=LecJava&wr_id=736
+- https://www.techiedelight.com/ko/measure-elapsed-time-execution-time-java/
+- https://www.baeldung.com/java-measure-elapsed-time
+- https://www.techiedelight.com/measure-elapsed-time-execution-time-java/
+
+
+
+## 자바 static block
+
+
+## Void Type
+
+
