@@ -28,3 +28,6 @@ https://xinet.kr/?p=2675
    systemctl restart mysql.service
    profile
 ```
+
+## [MySQL] foreign key(외래키) 추가, 삭제, 확인 방법
+- https://allg.tistory.com/37 
