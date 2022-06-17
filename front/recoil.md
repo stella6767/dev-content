@@ -29,3 +29,12 @@
 ## useRecoilValueLoadable
 - https://doqtqu.tistory.com/314
 - https://velog.io/@yiyb0603/Recoil-Selector-useRecoilValueLoadable%EC%9D%84-%ED%99%9C%EC%9A%A9
+
+
+## Recoil의 쓰기 가능한 셀렉터
+
+- https://blog.rhostem.com/posts/2021-11-24-recoil-writable-selector
+
+
+## Recoil 레시피: 비동기 액션
+- https://taegon.kim/archives/10125
