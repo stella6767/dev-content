@@ -29,8 +29,42 @@
 [자바 스프링 실전 가이드](https://www.youtube.com/watch?v=TIag2sXhZRk&list=PLiLLi47PCMPjvVIba_5Tzl--QqblJkpnZ&index=163&ab_channel=%EC%96%91%EC%9E%AC%EB%8F%99%EC%BD%94%EB%93%9C%EB%9E%A9)
 <br/>
 
+[[Spring Batch] 스프링 배치 강좌 1. 프로그래밍의 꽃. 스프링 배치 Hello World!](https://www.fwantastic.com/2019/12/spring-batch-1-hello-world.html)
+<br/>
+
+[https://docs.spring.io/spring-framework/docs/](https://docs.spring.io/spring-framework/docs/)
+<br/>
+
+[프로젝트 패키지 이름 명명규칙](https://devmg.tistory.com/66)
+<br/>
+
+[CHAP 15. 실패와 지연 처리하기](https://incheol-jung.gitbook.io/docs/study/srping-in-action-5th/chap-15.)
+<br/>
+
+[Jackson Annotation 정리 (1) (Serialization Annotation)](https://ckddn9496.tistory.com/69?category=425352)
+<br/>
+
+[[입문] Jooq에 대해 알아보자](https://sightstudio.tistory.com/54)
+<br/>
+
+[DTO를 inner class로 관리하기](https://unluckyjung.github.io/dev/2022/02/20/Dto-InnerClass/)
+<br/>
+
+[SpringBoot를 이용한 AWS S3에 resizing 이미지 업로드하기(Marvin 활용)](https://earth-95.tistory.com/129?category=915270)
+<br/>
+
+[웹프로그래머를 위한 서블릿 컨테이너의 이해](https://yangbongsoo.gitbook.io/study/servlet_container)
+<br/>
+
 []()
 <br/>
+
+[]()
+<br/>
+
+[]()
+<br/>
+
 
 []()
 <br/>
@@ -43,15 +77,5 @@
 
 []()
 <br/>
-
-[]()
-<br/>
-
-[]()
-<br/>
-
-[]()
-<br/>
-
 
 

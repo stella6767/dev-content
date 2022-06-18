@@ -20,16 +20,16 @@
 [[제로초 토크] 자바스크립트에서 알아야 할 필수 개념들](https://www.youtube.com/watch?v=b4LxIniE9-M&list=PLiLLi47PCMPjvVIba_5Tzl--QqblJkpnZ&index=257&ab_channel=ZeroChoTV)
 <br/>
 
-[]()
+[실용주의 프런트 엔드 개발](https://peter-cho.gitbook.io/book/)
 <br/>
 
-[]()
+[Constructor overload in TypeScript](https://stackoverflow.com/questions/12702548/constructor-overload-in-typescript)
 <br/>
 
-[]()
+[TypeScript-Handbook 한글 문서](https://typescript-kr.github.io/)
 <br/>
 
-[]()
+[TypeScript는 어떻게 공부해야 하나요?](https://yozm.wishket.com/magazine/detail/1376/)
 <br/>
 
 []()
@@ -40,4 +40,18 @@
 # Node.js
 
 [Node.js에 관해 후회하는 10가지 - Ryan Dahl - JSConf EU](https://www.youtube.com/watch?v=M3BM9TB-8yA&list=PLiLLi47PCMPjvVIba_5Tzl--QqblJkpnZ&index=274&ab_channel=JSConf)
+
+
+
+# jQuery
+
+[jQuery 입문](https://www.devkuma.com/docs/jquery/)
+<br/>
+
+[]()
+<br/>
+
+[]()
+<br/>
+
 

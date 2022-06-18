@@ -7,10 +7,10 @@
 - CMD. default 명령이나 파라미터를 설정한다. docker run 실행 시 실행할 커맨드를 주지 않으면 이 default 명령이 실행된다. 그리고 ENTRYPOINT의 파라미터를 설정할 수도 있다. CMD의 주용도는 컨테이너를 실행할 때 사용할 default를 설정하는 것이다.
 - ENTRYPOINT. 컨테이너를 실행할 수 있게 설정한다.
 
-[]()
+[Docker Container 로그 확인-컨테이너에서 발생하는 다양한 로그 확인](https://sungwookkang.com/1299)
 <br/>
 
-[]()
+[Docker Container 리소스 제한](https://sungwookkang.com/1300?category=807630)
 <br/>
 
 []()

@@ -14,18 +14,16 @@
 [&#91; 10분 테코톡 &#93;  🍟  웨지의 인텔리제이 디버깅](https://www.youtube.com/watch?v=gkutTlwi70s&list=PLiLLi47PCMPjvVIba_5Tzl--QqblJkpnZ&index=100&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
 <br/>
 
-
-
-[]()
+[코드 분석을 위한 IntelliJ Ultimate 약간의 활용팁](https://appleg1226.tistory.com/27?category=894463)
 <br/>
 
-[]()
+[IntelliJ에서 JPA ER Diagram 확인 방법](https://jojoldu.tistory.com/517)
 <br/>
 
-[]()
+[Why does Intellij IDEA suddenly not recognize tests in test folder anymore?](https://stackoverflow.com/questions/13157815/why-does-intellij-idea-suddenly-not-recognize-tests-in-test-folder-anymore)
 <br/>
 
-[]()
+[[IntelliJ] Execution failed for task ':compileJava'.](https://veneas.tistory.com/entry/IntelliJ-Execution-failed-for-task-compileJava)
 <br/>
 
 []()
@@ -62,6 +60,17 @@
  []()
 <br/>
  
+
+
+# vim 
+
+[얄팍한 코딩사전(Vim)](https://www.youtube.com/watch?v=qn1soztN7k4)
+<br/>
+
+
+[유용한 vi, vim 명령어 정리](https://getto215.tistory.com/10)
+<br/>
+
 
 # 마크다운 문법
 

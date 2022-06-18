@@ -43,7 +43,7 @@
 [JPA @ManyToOne 단방향 관계 쿼리 문제 해설편](https://www.youtube.com/watch?v=MpXdx8-qWzo&list=PLiLLi47PCMPjvVIba_5Tzl--QqblJkpnZ&index=101&ab_channel=%EB%B0%B1%EA%B8%B0%EC%84%A0)
 <br/>
 
-[]()
+[JPA 일대다 단방향 매핑 잘못 사용하면 벌어지는 일](https://homoefficio.github.io/2019/04/28/JPA-%EC%9D%BC%EB%8C%80%EB%8B%A4-%EB%8B%A8%EB%B0%A9%ED%96%A5-%EB%A7%A4%ED%95%91-%EC%9E%98%EB%AA%BB-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4-%EB%B2%8C%EC%96%B4%EC%A7%80%EB%8A%94-%EC%9D%BC/)
 <br/>
 
 []()
