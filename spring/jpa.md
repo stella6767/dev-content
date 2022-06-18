@@ -38,3 +38,17 @@
 
 [[2019] Spring JPA의 사실과 오해](https://www.youtube.com/watch?v=rYj8PLIE6-k&list=PLiLLi47PCMPjvVIba_5Tzl--QqblJkpnZ&index=85&ab_channel=NHNCloud)
 <br/>
+
+
+[JPA @ManyToOne 단방향 관계 쿼리 문제 해설편](https://www.youtube.com/watch?v=MpXdx8-qWzo&list=PLiLLi47PCMPjvVIba_5Tzl--QqblJkpnZ&index=101&ab_channel=%EB%B0%B1%EA%B8%B0%EC%84%A0)
+<br/>
+
+[]()
+<br/>
+
+[]()
+<br/>
+
+[]()
+<br/>
+

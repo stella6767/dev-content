@@ -47,7 +47,7 @@
 [How HashMap works in Java? With Animation!! whats new in java8 tutorial](https://www.youtube.com/watch?v=c3RVW3KGIIE&list=PLiLLi47PCMPjvVIba_5Tzl--QqblJkpnZ&index=57&ab_channel=Ranjithramachandran)
 <br/>
 
-[]()
+[[우아한테크세미나] 190620 우아한객체지향 by 우아한형제들 개발실장 조영호님](https://www.youtube.com/watch?v=dJ5C4qRqAgA&list=PLiLLi47PCMPjvVIba_5Tzl--QqblJkpnZ&index=183&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
 <br/>
 
 

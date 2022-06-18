@@ -49,7 +49,7 @@
 
 [코딩 인생 꿀템 VSC 단축키 5분 정리해드림](https://www.youtube.com/watch?v=Wn7j5dfbJF4&list=PLclw_XTIbaKoJrijHvoa90sbwq8ZajZjk&index=46)
 <br/>
- []()
+ [비쥬얼 스튜디오 코드(visual studio code) 설치 및 9개 익스텐션 추천!! - 프론트엔드 개발자 입문편 / 웹 개발 환경 설정](https://www.youtube.com/watch?v=ltvaJ6vr19M&list=PLiLLi47PCMPjvVIba_5Tzl--QqblJkpnZ&index=153&ab_channel=%EC%88%98%EC%BD%94%EB%94%A9)
 <br/>
  []()
 <br/>
