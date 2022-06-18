@@ -55,6 +55,40 @@
 [CRA Deployment](https://create-react-app.dev/docs/deployment/#static-server)
 <br/>
 
+[useState에 대한 공통적인 실수](https://sangcho.tistory.com/entry/Commons-Mistakes-with-React-useState)
+
+[]()
+
+[]()
+
+[]()
+
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
 ## Next.js
 
 [next.js 기본 개념 알아보기](https://kyounghwan01.github.io/blog/React/next/basic/#next-js%E1%84%80%E1%85%A1-%E1%84%8C%E1%85%A6%E1%84%80%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%AD-%E1%84%80%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC)
