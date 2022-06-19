@@ -11,7 +11,7 @@
 [SameSite Cookie속성 변경? 정책 3가지/이유/대응 (Chrome80 업데이트)](https://cherish-it.tistory.com/12?category=1184684)
 <br/>
 
-[]()
+[세션 동작 원리 - 쿠키와 세션의 관계](https://thecodinglog.github.io/web/2020/08/11/what-is-session.html)
 <br/>
 
 []()

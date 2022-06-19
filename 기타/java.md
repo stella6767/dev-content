@@ -147,15 +147,13 @@
 
 [Java Stream - findAny()와 findFirst()의 차이점](https://codechacha.com/ko/java8-stream-difference-findany-findfirst/)
 
-[]()
+[[JAVA] - Arrays.asList()와 List.of()의 차이](https://kim-jong-hyun.tistory.com/31?category=868406)
 
-[]()
+[[Java] Iterator, Iterable, for-each 각각의 특징](https://soyeondev.tistory.com/60)
 
-[]()
+[List 순회 중 만난 ConcurrentModificationException과 컬렉션 불변성](https://m.blog.naver.com/tmondev/220393974518)
 
-[]()
-
-[]()
+[ThreadLocal 사용법과 활용](https://javacan.tistory.com/entry/ThreadLocalUsage)
 
 []()
 

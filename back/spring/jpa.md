@@ -63,3 +63,19 @@
 [JPA N+1 문제 및 해결방안](https://jojoldu.tistory.com/165#recentComments)
 
 [(JPA) persist vs merge](https://perfectacle.github.io/2021/06/13/entity-manager-persist-vs-merge/)
+
+[Legacy DB의 JPA Entity Mapping (복합키 매핑 편)](https://techblog.woowahan.com/2595/)
+
+
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()

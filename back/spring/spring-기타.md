@@ -127,7 +127,46 @@
 
 [Java의 ThreadPoolExecutor, Spring의 ThreadPoolTaskExecutor](https://pompitzz.github.io/blog/Java/threadPoolExecutor.html#java%E1%84%8B%E1%85%B4-threadpoolexecutor)
 
-[]()
+[/과 /*의 차이점을 포함한 url-mapping 정리](https://wedul.site/158?category=595982)
+
+[Spring - Event Driven](https://backtony.github.io/spring/2022-06-06-spring-event/#%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B0%84-%EA%B0%95%EA%B2%B0%ED%95%A9-%EB%AC%B8%EC%A0%9C)
+
+[JWT & Spring Security](https://brunch.co.kr/@springboot/491)
+
+[Spring Boot - 스케줄러 사용해보기 1. FixedDelay vs FixedRate](https://seolin.tistory.com/123)
+
+[Spring시작 로딩 시점에 로직 실행 하는 방법](https://recordsoflife.tistory.com/252)
+
+[SpringBoot기반 Redis Cache 활용법](https://yonguri.tistory.com/82)
+
+[스프링 세션 동작 원리 - 스프링 세션 어떻게 동작하는 것인가?](https://thecodinglog.github.io/spring-session/2020/08/07/filter-chain.html)
+
+[RSocket in Spring Framework](https://brunch.co.kr/@springboot/271)
+
+[Jackson, LocalDateTime Serialization, Deserialization 이슈](https://umanking.github.io/2021/07/24/jackson-localdatetime-serialization/)
+
+[[spring boot] 스프링부트에서 외부jar파일 추가 방법(배포시에도 정상적으로 추가됨)](http://justdevelo.blogspot.com/2019/03/spring-boot-jar.html)
+
+[Spring Cache 장애 대응 방안](https://supawer0728.github.io/2018/04/18/spring-cache-fallback/)
+
+[How does @Async work? @Async를 지금까지 잘 못 쓰고 있었습니다(@Async 사용할 때 주의해야 할 것, 사용법)](https://jeong-pro.tistory.com/187)
+
+[Spring AOP의 원리 - CGlib vs Dynamic Proxy](https://huisam.tistory.com/entry/springAOP)
+
+[Error Handling for REST with Spring](https://www.baeldung.com/exception-handling-for-rest-with-spring)
+
+[Spring Batch, Migration, 튜닝 및 OOM 해결 후기](https://www.4te.co.kr/891)
+
+
+[[spring] jpa와 mybatis 동시 사용시 transactinoManager (multi) 설정하기(xml) 및 내부 살펴보기](https://lemontia.tistory.com/907)
+
+[How to Read HTTP Headers in Spring REST Controllers](https://www.baeldung.com/spring-rest-http-headers)
+
+[spring-security-custom-filter](https://www.baeldung.com/spring-security-custom-filter)
+
+[Flyway DB 마이그레이션 / 기존 데이터가 있는 상황에서 Flyway 적용하기](https://ecsimsw.tistory.com/entry/Flyway-DB-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EA%B8%B0%EC%A1%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EC%9E%88%EB%8A%94-%EA%B2%BD%EC%9A%B0)
+
+[[SpringSecurity #03] 스프링 시큐리티 테스트 코드 작성](https://catchdream.tistory.com/194)
 
 []()
 
@@ -138,19 +177,7 @@
 []()
 
 []()
-[]()
 
 []()
 
 []()
-
-[]()
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-

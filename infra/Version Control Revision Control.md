@@ -58,7 +58,7 @@ git rm --cached . -rf
 [한 컴퓨터에서 여러 개의 깃허브 계정 사용하기](https://velog.io/@jay/multiplegithubaccounts)
 <br/>
 
-[]()
+[[Github] Private Repository의 Contribution 잔디밭에 보이게 하기](https://4z7l.github.io/2020/12/04/github-private-contribution.html)
 <br/>
 
 

@@ -65,3 +65,8 @@ jdbc:tc:postgresql:///schema_name?TC_INITSCRIPT=file:src/test/resources/schema.s
 - https://sg-choi.tistory.com/543
 - https://honeyinfo7.tistory.com/305
 - https://isntyet.github.io/java/TestContainers%EB%A1%9C-test-%EB%A9%B1%EB%93%B1%EC%84%B1-%EB%86%92%EC%9D%B4%EA%B8%B0/
+
+
+## Testing tool
+
+[JUnit+Mockito vs Groovy+Spock](https://yangbongsoo.gitbook.io/study/junit+mockito_vs_groovy+spock)

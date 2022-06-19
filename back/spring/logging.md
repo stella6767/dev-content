@@ -12,6 +12,8 @@
 [[AWS] Spring Logback으로 CloudWatch에 로그 보내는 법](https://devlog-wjdrbs96.tistory.com/329)
 <br/>
 
+[Spring p6spy 적용하기](https://backtony.github.io/spring/2021-08-13-spring-log-1/)
+
 []()
 <br/>
 
