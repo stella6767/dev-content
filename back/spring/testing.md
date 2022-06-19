@@ -37,7 +37,7 @@
 [스프링부트에서 DbUnit 을 이용하여 DB 테스트 해보기](https://techblog.woowahan.com/2650/)
 <br/>
 
-[]()
+[Spring Boot에서 테스트를 - 1](https://hyper-cube.io/2017/08/06/spring-boot-test-1/)
 <br/>
 
 

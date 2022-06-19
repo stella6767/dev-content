@@ -140,3 +140,25 @@
 [JAVA 배열, list 중복제거](https://rian-yeji.github.io/study/java/2019/11/10/java-remove-overlap.html)
 
 [java-faker](https://github.com/DiUS/java-faker)
+
+[Java Enum 활용기](https://techblog.woowahan.com/2527/)
+
+[jsoup : 자바 HTML 파서(Java HTML Parser)](https://offbyone.tistory.com/116)
+
+[Java Stream - findAny()와 findFirst()의 차이점](https://codechacha.com/ko/java8-stream-difference-findany-findfirst/)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()

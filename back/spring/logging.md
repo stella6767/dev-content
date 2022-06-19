@@ -9,7 +9,7 @@
 [Spring 애플리케이션에서 발생된 로그를 AWS Cloud Watch로 전송하기](https://kim-jong-hyun.tistory.com/111)
 <br/>
 
-[]()
+[[AWS] Spring Logback으로 CloudWatch에 로그 보내는 법](https://devlog-wjdrbs96.tistory.com/329)
 <br/>
 
 []()
@@ -36,12 +36,12 @@
 
 [로그는 반드시 필요한 내용만 찍자](https://yangbongsoo.gitbook.io/study/undefined/log)
 
-[]()
+[Log4j 와 slf4j (maven 설정, commons-logging, appender, logger, layout)](https://sjh836.tistory.com/161?category=680970)
 
-[]()
+[Springboot lucy-xss-filter 적용](https://yg1110.tistory.com/10)
 
-[]()
+[HandlerMethodArgumentResolver에 대해 알아보자](https://cbw1030.tistory.com/337?category=1067183)
 
-[]()
+[Spring Boot - Logging, 20분 정리](https://www.sangkon.com/hands-on-springboot-logging/)
 
 

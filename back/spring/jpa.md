@@ -46,9 +46,20 @@
 [JPA 일대다 단방향 매핑 잘못 사용하면 벌어지는 일](https://homoefficio.github.io/2019/04/28/JPA-%EC%9D%BC%EB%8C%80%EB%8B%A4-%EB%8B%A8%EB%B0%A9%ED%96%A5-%EB%A7%A4%ED%95%91-%EC%9E%98%EB%AA%BB-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4-%EB%B2%8C%EC%96%B4%EC%A7%80%EB%8A%94-%EC%9D%BC/)
 <br/>
 
-[]()
+[LIKE Queries in Spring JPA Repositories](https://www.baeldung.com/spring-jpa-like-queries)
 <br/>
 
-[]()
+[JPA @ColumnDefault에 대한 오해, 컬럼 default 적용하기, @ColumnDefault not working 해결하기, @DynamicInsert](https://eocoding.tistory.com/71)
 <br/>
 
+[JPA 에서 여러개의 컬럼 중 특정 컬럼만 사용하는 UPDATE](https://kimseungjae.tistory.com/11?category=791451)
+
+[[JPA] 프록시와 연관관계 관리 - 프록시, LAZY, EAGER , CASCADE, orphanRemoval](https://jyami.tistory.com/22)
+
+[[Spring JPA] OneToOne N+1 문제 (원인 해결방법 포함)](https://dev-nomad.com/m/75)
+
+[QueryDsl from subquery와 join을 해보자!](https://ksk-developer.tistory.com/6)
+
+[JPA N+1 문제 및 해결방안](https://jojoldu.tistory.com/165#recentComments)
+
+[(JPA) persist vs merge](https://perfectacle.github.io/2021/06/13/entity-manager-persist-vs-merge/)

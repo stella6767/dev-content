@@ -11,7 +11,7 @@
 [Gradle 프로젝트에 JaCoCo 설정하기](https://techblog.woowahan.com/2661/)
 <br/>
 
-[]()
+[Spring - Gradle 멀티 모듈 프로젝트](https://backtony.github.io/spring/2022-06-02-spring-module-1/)
 <br/>
 
 []()

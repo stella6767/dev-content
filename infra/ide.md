@@ -26,10 +26,10 @@
 [[IntelliJ] Execution failed for task ':compileJava'.](https://veneas.tistory.com/entry/IntelliJ-Execution-failed-for-task-compileJava)
 <br/>
 
-[]()
+[IntelliJ IDEA에서 일상적인 리팩토링을 즐기기_1편](https://blog.naver.com/PostView.nhn?blogId=tangunsoft&logNo=222096356808&parentCategoryNo=&categoryNo=79&viewDate=&isShowPopularPosts=true&from=search)
 <br/>
 
-[]()
+[ IntelliJ와 Eclipse 비교](https://hjjungdev.tistory.com/60)
 <br/>
 
 []()
