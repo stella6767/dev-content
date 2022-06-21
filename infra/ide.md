@@ -32,7 +32,7 @@
 [ IntelliJ와 Eclipse 비교](https://hjjungdev.tistory.com/60)
 <br/>
 
-[]()
+[[Spring Boot] To display the conditions report re-run your application with 'debug' enabled](https://heestory217.tistory.com/131)
 <br/>
 
 []()

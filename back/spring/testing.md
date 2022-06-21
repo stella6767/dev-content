@@ -41,7 +41,7 @@
 <br/>
 
 
-
+[Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL)]()
 
 
 #### SpringBoot TestContainer 참고

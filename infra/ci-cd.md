@@ -12,10 +12,10 @@
 [Github Action을 사용한 Spring boot & gradle CI/CD 구축 - 4](https://stalker5217.netlify.app/devops/github-action-aws-ci-cd-4/)
 <br/>
 
-[]()
+[EC2 프리티어에서 Jenkins가 돌아가지 않는 문제 해결하기](https://tape22.tistory.com/22)
 <br/>
 
-[]()
+[리눅스 하드디스크를 가상 메모리로 전환(swam)](https://okky.kr/article/884329)
 <br/>
 
 []()

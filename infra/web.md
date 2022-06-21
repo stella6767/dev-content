@@ -14,7 +14,7 @@
 [세션 동작 원리 - 쿠키와 세션의 관계](https://thecodinglog.github.io/web/2020/08/11/what-is-session.html)
 <br/>
 
-[]()
+[multipart는 HTTP POST로만 전송해야 한다](https://blog.outsider.ne.kr/1001)
 <br/>
 
 []()
