@@ -68,11 +68,11 @@
 
 
 
-[]()
+[[JPA] jpa에서 Repository를 이용한 낙관적락을 구현해봅시다.](https://sabarada.tistory.com/185?category=803157)
 
-[]()
+[Defining Unique Constraints in JPA](https://www.baeldung.com/jpa-unique-constraints)
 
-[]()
+[Lazy Exception 과 Hibernate.initialize()](https://feco.tistory.com/10)
 
 []()
 

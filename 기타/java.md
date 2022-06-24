@@ -155,8 +155,8 @@
 
 [ThreadLocal 사용법과 활용](https://javacan.tistory.com/entry/ThreadLocalUsage)
 
-[]()
+[까다로운 Optional 느낌있게 사용하는 법](https://velog.io/@nswon/Java8-API-%EA%B0%9C%EB%B0%9C%EC%9E%90-Optional-%EA%B7%B8%EB%A0%87%EA%B2%8C-%EC%93%B0%EB%8A%94%EA%B1%B0-%EC%95%84%EB%8B%8C%EB%8D%B0)
 
-[]()
+[모던 자바 (자바8) 못다한 이야기 - 00 소개영상](https://www.youtube.com/watch?v=mu9XfJofm8U&list=PLRIMoAKN8c6O8_VHOyBOhzBCeN7ShyJ27&ab_channel=%EC%BC%80%EB%B9%88TV)
 
 []()

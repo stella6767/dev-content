@@ -119,6 +119,19 @@
 [Victor Rentea — The Proxy fairy and the magic of Spring](https://www.youtube.com/watch?v=HbbvyZh3IZo&list=PLiLLi47PCMPjvVIba_5Tzl--QqblJkpnZ&index=62&ab_channel=JUG.ru)
 <br/>
 
+[[Spring] Spring의 Event를 어떻게 사용하는지에 대해서 알아봅시다. - @TransactionalEventListener에 대해서](https://sabarada.tistory.com/188)
+
+[ApplicationEventPublisher 기반으로 강결합 및 트랜잭션 문제 해결](https://cheese10yun.github.io/event-transaction/)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
 
 ## Spring Batch
 [Spring Batch, Migration, 튜닝 및 OOM 해결 후기](https://www.4te.co.kr/891)

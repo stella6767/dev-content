@@ -35,7 +35,7 @@
 [[Spring Boot] To display the conditions report re-run your application with 'debug' enabled](https://heestory217.tistory.com/131)
 <br/>
 
-[]()
+[IntelliJ에서 `.http`로 테스트 하기](https://blog2.deliwind.com/20200405/IntelliJ%EC%97%90%EC%84%9C-http%EB%A1%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EA%B8%B0/)
 <br/>
 
 

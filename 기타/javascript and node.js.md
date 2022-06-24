@@ -32,9 +32,24 @@
 [TypeScript는 어떻게 공부해야 하나요?](https://yozm.wishket.com/magazine/detail/1376/)
 <br/>
 
-[]()
+[Convert JS Object to form data](https://stackoverflow.com/questions/22783108/convert-js-object-to-form-data)
 <br/>
 
+[Map Typescript Enum](https://stackoverflow.com/questions/41308123/map-typescript-enum)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
 
 
 # Node.js
