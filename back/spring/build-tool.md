@@ -14,6 +14,6 @@
 [Spring - Gradle 멀티 모듈 프로젝트](https://backtony.github.io/spring/2022-06-02-spring-module-1/)
 <br/>
 
-[]()
+[Skipping Tests With Gradle](https://www.baeldung.com/gradle-skip-tests)
 <br/>
 

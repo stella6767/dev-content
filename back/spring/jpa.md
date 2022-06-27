@@ -74,7 +74,7 @@
 
 [Lazy Exception 과 Hibernate.initialize()](https://feco.tistory.com/10)
 
-[]()
+[Spring Data JPA Stream으로 대용량 데이터 조회하기 (100만 건 이상)](https://prohannah.tistory.com/148)
 
 []()
 

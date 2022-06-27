@@ -32,6 +32,7 @@
 [Recoil 레시피: 비동기 액션](https://taegon.kim/archives/10125)
 <br/>
 
+[[Recoil] selector를 이용한 API 캐싱(feat. useRecoilRefresher)](https://velog.io/@tech-hoon/recoil-selector-api-caching)
 
 
 
