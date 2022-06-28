@@ -17,3 +17,4 @@
 [Skipping Tests With Gradle](https://www.baeldung.com/gradle-skip-tests)
 <br/>
 
+[Gradle을 사용하여 하나의 단위 테스트 클래스 만 실행하는 방법](https://rateye.tistory.com/122)
