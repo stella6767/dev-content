@@ -1,7 +1,13 @@
 
+# 기타
 
-# RDB
+[Native client is not specified for connection DBeaver](https://david.raleche.com/web-consulting/how-to-fix-dbeaver-native-client-is-not-specified-for-connection/)
 
+![img.png](img.png)
+
+
+# RDB**
+**
 ## MYSQL && MariaDB
 
 [[Mysql] 버전 확인하는 방법](https://deeplify.dev/database/troubleshoot/how-to-check-mysql-version)

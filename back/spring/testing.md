@@ -70,3 +70,25 @@ jdbc:tc:postgresql:///schema_name?TC_INITSCRIPT=file:src/test/resources/schema.s
 ## Testing tool
 
 [JUnit+Mockito vs Groovy+Spock](https://yangbongsoo.gitbook.io/study/junit+mockito_vs_groovy+spock)
+
+
+[ Task :asciidoctor NO-SOURCE ](https://sas-study.tistory.com/371)
+
+[JUnit 무시 테스트 케이스 : JUnit 4 @Ignore Vs JUnit 5 @Disabled](https://ko.myservername.com/top-25-jdbc-interview-questions)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+[]()
+[]()
+[]()
