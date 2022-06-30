@@ -76,6 +76,6 @@
 
 [Spring Data JPA Stream으로 대용량 데이터 조회하기 (100만 건 이상)](https://prohannah.tistory.com/148)
 
-[]()
+[A Guide to JPA Buddy](https://www.baeldung.com/jpa-buddy)
 
 []()

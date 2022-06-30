@@ -159,4 +159,18 @@
 
 [모던 자바 (자바8) 못다한 이야기 - 00 소개영상](https://www.youtube.com/watch?v=mu9XfJofm8U&list=PLRIMoAKN8c6O8_VHOyBOhzBCeN7ShyJ27&ab_channel=%EC%BC%80%EB%B9%88TV)
 
+[@Builder 사용시 초기화할 필드가 있다면](https://lokie.tistory.com/24?category=839872)
+
+[Java - Java에서 Throttle기법 사용 하기.](https://gardeny.tistory.com/44)
+
+[[Java]많이 사용하는 자바 라이브러리](https://codemanager.tistory.com/45)
+
+[모든 프로그래머가 2022년에 배워야 할 상위 22개 Java 라이브러리 및 API](https://medium.com/javarevisited/20-essential-java-libraries-and-apis-every-programmer-should-learn-5ccd41812fc7)
+
+[]()
+
+[]()
+
+[]()
+
 []()

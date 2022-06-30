@@ -77,6 +77,9 @@
 [SpringBoot를 이용한 AWS S3에 resizing 이미지 업로드하기(Marvin 활용)](https://earth-95.tistory.com/129?category=915270)
 <br/>
 
+[Spring Boot Admin Reference Guide](https://codecentric.github.io/spring-boot-admin/current/#_backend)
+
+[[spring-boot] 2.4 부터 변경된 구성파일 처리방식 살펴보기](http://honeymon.io/tech/2021/01/16/spring-boot-config-data-migration.html)
 
 
 ## Spring Core

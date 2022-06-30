@@ -46,14 +46,13 @@
 [[MYSQL] 📚 JOIN과 서브쿼리 차이 및 변환 💯 정리](https://inpa.tistory.com/entry/MYSQL-%F0%9F%93%9A-JOIN%EA%B3%BC-%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC-%EC%B0%A8%EC%9D%B4-%EB%B0%8F-%EB%B3%80%ED%99%98-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC)
 <br/>
 
-
 [MariaDB 계정 생성 및 권한](https://izigom.tistory.com/entry/MariaDB-%EA%B3%84%EC%A0%95-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EA%B6%8C%ED%95%9C%EC%B6%9C%EC%B2%98-MariaDB-%EA%B3%84%EC%A0%95-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EA%B6%8C%ED%95%9C%EC%9E%91%EC%84%B1%EC%9E%90-%EC%9A%B0%EC%95%BC)
 <br/>
 
-[]()
+[[MySQL] Materialized Path를 사용한 계층형 모델](https://purumae.tistory.com/192)
 <br/>
 
-[]()
+[[Spring] RDB 에서 계층적인 데이터 구조 관리 전략 - Closure table](https://ibocon.tistory.com/204)
 <br/>
 
 []()

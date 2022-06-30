@@ -76,7 +76,7 @@ jdbc:tc:postgresql:///schema_name?TC_INITSCRIPT=file:src/test/resources/schema.s
 
 [JUnit 무시 테스트 케이스 : JUnit 4 @Ignore Vs JUnit 5 @Disabled](https://ko.myservername.com/top-25-jdbc-interview-questions)
 
-[]()
+[Spring REST Docs](https://docs.spring.io/spring-restdocs/docs/current/reference/html5/#documenting-your-api-request-response-payloads)
 
 []()
 
