@@ -78,4 +78,4 @@
 
 [A Guide to JPA Buddy](https://www.baeldung.com/jpa-buddy)
 
-[]()
+[Alternatives to JPA](https://stylishc.tistory.com/132)
