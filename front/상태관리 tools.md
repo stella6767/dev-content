@@ -40,7 +40,7 @@
 
 [리덕스를 도입하는데 주저하게 만드는 장벽들 - 1. redux-saga 쓰지 말아야 할 이유](https://www.youtube.com/watch?v=xsOhUX7DDl0&list=PLiLLi47PCMPjvVIba_5Tzl--QqblJkpnZ&index=140&ab_channel=%EC%BD%94%EB%94%A9%ED%98%B8%EC%A3%BC%EB%8B%88Justin)
 
-
+[Redux Toolkit (리덕스 툴킷)은 정말 천덕꾸러기일까?](http://blog.hwahae.co.kr/all/tech/tech-tech/6946/)
 
 # Zustand
 

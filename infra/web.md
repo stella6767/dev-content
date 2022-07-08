@@ -17,7 +17,7 @@
 [multipart는 HTTP POST로만 전송해야 한다](https://blog.outsider.ne.kr/1001)
 <br/>
 
-[]()
+[RESTful API를 위한 6가지 원칙과 네이밍](https://prohannah.tistory.com/156)
 <br/>
 
 []()
