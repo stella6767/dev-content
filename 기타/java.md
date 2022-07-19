@@ -167,7 +167,7 @@
 
 [모든 프로그래머가 2022년에 배워야 할 상위 22개 Java 라이브러리 및 API](https://medium.com/javarevisited/20-essential-java-libraries-and-apis-every-programmer-should-learn-5ccd41812fc7)
 
-[]()
+[(번역) Functor and monad examples in plain Java](https://medium.com/@jooyunghan/functor-and-monad-examples-in-plain-java-9ea4d6630c6)
 
 []()
 

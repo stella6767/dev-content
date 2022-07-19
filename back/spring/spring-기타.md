@@ -128,7 +128,7 @@
 
 [Don’t Use the @Profile Annotation in a Spring Boot App!](https://reflectoring.io/dont-use-spring-profile-annotation/)
 
-[]()
+[스프링 ApplicationEventPublisher, @EventListener, @TransactionalEventListener를 이용한 도메인 이벤트 처리](https://javacan.tistory.com/entry/Handle-DomainEvent-with-Spring-ApplicationEventPublisher-EventListener-TransactionalEventListener)
 
 []()
 
