@@ -55,13 +55,13 @@
 [[Spring] RDB 에서 계층적인 데이터 구조 관리 전략 - Closure table](https://ibocon.tistory.com/204)
 <br/>
 
-[]()
+[[MySQL] Materialized Path를 사용한 계층형 모델](https://purumae.tistory.com/192)
 <br/>
 
-[]()
+[[Mysql] TRUNCATE 테이블 초기화](https://pafy.tistory.com/31)
 <br/>
 
-[]()
+[MySQL table into CSV file 1.sql](https://gist.github.com/gaerae/6219678)
 <br/>
 
 
@@ -84,7 +84,7 @@
 [Mysql 사용자 추가, 제거 및 권한 부여](https://cjh5414.github.io/mysql-create-user/)
 <br/>
 
-[]()
+[관계형 DB에서 계층적인 데이터 관리하기](https://tecoble.techcourse.co.kr/post/2021-09-03-hierarchy-data-with-rdb/)
 <br/>
 
 

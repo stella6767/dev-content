@@ -169,8 +169,8 @@
 
 [(번역) Functor and monad examples in plain Java](https://medium.com/@jooyunghan/functor-and-monad-examples-in-plain-java-9ea4d6630c6)
 
-[]()
+[자바의 모나드 - Monads with Java 8](https://blog.naver.com/2feelus/220822702794)
 
-[]()
+[[읽고서] 자바 고유락과 Synchronization](https://brunch.co.kr/@kd4/156)
 
 []()

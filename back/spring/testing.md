@@ -78,9 +78,9 @@ jdbc:tc:postgresql:///schema_name?TC_INITSCRIPT=file:src/test/resources/schema.s
 
 [Spring REST Docs](https://docs.spring.io/spring-restdocs/docs/current/reference/html5/#documenting-your-api-request-response-payloads)
 
-[]()
+[Spring Boot Test](https://meetup.toast.com/posts/124)
 
-[]()
+[JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/#overview)
 
 []()
 

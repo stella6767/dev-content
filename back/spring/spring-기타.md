@@ -130,9 +130,9 @@
 
 [스프링 ApplicationEventPublisher, @EventListener, @TransactionalEventListener를 이용한 도메인 이벤트 처리](https://javacan.tistory.com/entry/Handle-DomainEvent-with-Spring-ApplicationEventPublisher-EventListener-TransactionalEventListener)
 
-[]()
+[스프링 bean 정적접근](https://foojay.io/today/statically-spilling-your-spring-beans/)
 
-[]()
+[Accessing spring beans in static method](https://stackoverflow.com/questions/12537851/accessing-spring-beans-in-static-method)
 
 []()
 
