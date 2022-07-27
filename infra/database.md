@@ -16,6 +16,8 @@
 [mysql dump 옵션](https://xinet.kr/?p=2675)
 
 
+
+
 ### mysql 서버 시작 - mac / linux
 
 1. MAC

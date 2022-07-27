@@ -37,7 +37,7 @@
 
 [Map Typescript Enum](https://stackoverflow.com/questions/41308123/map-typescript-enum)
 
-[]()
+[JS의 객체는 hash table이 아닙니다!](https://velog.io/@wongue_shin/JS%EC%9D%98-%EA%B0%9D%EC%B2%B4%EB%8A%94-hash-table%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4)
 
 []()
 

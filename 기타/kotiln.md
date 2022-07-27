@@ -30,6 +30,15 @@
 
 [코틀린+스프링(코프링) 6개월 후기(?)](https://www.podo-dev.com/blogs/282)
 
-[]()
+[Static Initialization Block in Kotlin](https://www.baeldung.com/kotlin/static-initialization-block)
 
-[]()
+[Kotlin extensions use를 알아보고, 사용법을 알아보자.](https://thdev.tech/kotlin/2020/11/03/kotlin_effective_09/)
+
+[코틀린 의 apply, with, let, also, run 은 언제 사용하는가?](https://thdev.tech/kotlin/2020/11/03/kotlin_effective_09/)
+
+[Monads explained in Kotlin](https://medium.com/@albert.llousas/monads-explained-in-kotlin-4126ac0cb7f2)
+
+[[Kotlin] Lambda with receiver](https://jaeyeong951.medium.com/kotlin-lambda-with-receiver-5c2cccd8265a)
+
+[[번역] Kotlin Functional Programming I: Monad Stack](https://velog.io/@windsekirun/%EB%B2%88%EC%97%AD-Kotlin-Functional-Programming-I-Monad-Stack)
+

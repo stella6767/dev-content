@@ -10,6 +10,13 @@
 
 [[Spring] 캐시 추상화 (Cache Abstraction) 알아보기](https://12bme.tistory.com/550?category=682904)
 
+[기본 캐싱기능 사용](https://pamyferret.tistory.com/8)
+<br/>
+
+[pringboot EhCache 3 - 환경설정부터 self-invocation 처리까지 ](https://prohannah.tistory.com/88?category=870127)
+<br/>
+
+[Spring boot 에 caffeine 캐시를 적용해보자 - 어떻게하면 일을 안 할까?](https://blog.yevgnenll.me/posts/spring-boot-with-caffeine-cache)
 
 
 
