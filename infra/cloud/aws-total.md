@@ -26,7 +26,7 @@ aws configure --profile "your username"
 [경로에 AWS CLI 추가](https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/getting-started-path.html)
 <br/>
 
-[]()
+[[AWS] - 회사에 매달 청구되는 aws 비용을 1,000 달러이상 절감했던 이야기](https://kim-jong-hyun.tistory.com/133)
 
 []()
 
