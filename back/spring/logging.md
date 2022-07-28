@@ -46,4 +46,6 @@
 
 [Spring Boot - Logging, 20분 정리](https://www.sangkon.com/hands-on-springboot-logging/)
 
+[Spring 의 동기, 비동기, 배치 처리시 항상 context 를 유지하고 로깅하기](https://blog.gangnamunni.com/post/mdc-context-task-decorator/)
 
+[]()

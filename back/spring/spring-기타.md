@@ -161,6 +161,9 @@
 
 [MyBatis에서 샾(#{})과 달러(${})의 차이는 무엇일까?](https://madplay.github.io/post/difference-between-dollar-sign-and-sharp-sign-in-mybatis)
 
+[Flyway 로 Java 에서 DB schema, seed 관리하기](https://blog.gangnamunni.com/post/introducing-flyway/)
+
+[Spring 에서 @Async 를 이용한 동시다발적인 Hibernate DB 작업](https://blog.gangnamunni.com/post/Spring-Async-Hibernate-DB/)
 
 
 ## Spring MVC

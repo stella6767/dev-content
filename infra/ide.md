@@ -39,8 +39,7 @@
 <br/>
 
 
-
-
+[IntelliJ 내가쓰는 25가지 플러그인 목록](https://code-boki.tistory.com/4?category=934130)
 
 
 # VS code

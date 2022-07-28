@@ -42,12 +42,13 @@
 
 [[번역] Kotlin Functional Programming I: Monad Stack](https://velog.io/@windsekirun/%EB%B2%88%EC%97%AD-Kotlin-Functional-Programming-I-Monad-Stack)
 
-[]()
+[Kotlin Flow의 중복 DTO 도메인 매핑](https://florentblot.medium.com/redundant-dto-domain-mapping-in-kotlin-flow-bffbd1d28fc8)
 
-[]()
+[Kotlin Extension은 어떻게 테스트 해?](https://velog.io/@dhwlddjgmanf/Kotlin-Extension%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%B4)
 
-[]()
-₩
+[Static extension methods in Kotlin](https://stackoverflow.com/questions/28210188/static-extension-methods-in-kotlin)
+
+
 []()
 
 []()
