@@ -82,4 +82,14 @@
 
 [JPA @ElementCollection](https://prohannah.tistory.com/133)
 
+[Infra layer with Spring — Hibernate JPA EntityManager 핵심 기능 정리](https://tech.junhabaek.net/hibernate-jpa-entitymanager-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5-%EC%A0%95%EB%A6%AC-3d0d9ff439a2)
+
+[JPA 삭제 엔터티 예제 – JPA 자습서](https://howtodoinjava.com/jpa/jpa-remove-delete-entity-example/)
+
+[JPA Native Query 사용 시 DTO로 매핑하기](https://www.popit.kr/jpa-native-query-%EC%82%AC%EC%9A%A9-%EC%8B%9C-dto%EB%A1%9C-%EB%A7%A4%ED%95%91%ED%95%98%EA%B8%B0/)
+
+[Executing multiple native queries in one go... 내가 원하는 케이스에는 마땅한 방법은 없음..](https://stackoverflow.com/questions/6734423/executing-multiple-native-queries-in-one-go)
+
+[]()
+
 []()

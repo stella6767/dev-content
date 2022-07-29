@@ -7,7 +7,7 @@
 
 [HIBERNATE WITH KOTLIN – POWERED BY SPRING BOOT](https://kotlinexpertise.com/hibernate-with-kotlin-spring-boot/)
 
-[]()
+[Non-Blocking Spring Boot with Kotlin Coroutines](https://www.baeldung.com/kotlin/spring-boot-kotlin-coroutines)
 
 []()
 
