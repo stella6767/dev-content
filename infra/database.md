@@ -66,6 +66,8 @@
 [MySQL table into CSV file 1.sql](https://gist.github.com/gaerae/6219678)
 <br/>
 
+[MySQL Closure Table](https://lovemesomecoding.com/sql/mysql-closure-table)
+
 
 
 ## ANSI SQL
@@ -102,6 +104,10 @@
 []()
 <br/>
 
+
+## PostgreSQL
+
+[클로저 테이블 - 계층적 데이터를 원활하게 저장 | PostgreSQL](https://technobytz.com/closure_table_store_hierarchical_data.html)
 
 # NOSQL
 
