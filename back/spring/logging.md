@@ -48,4 +48,4 @@
 
 [Spring 의 동기, 비동기, 배치 처리시 항상 context 를 유지하고 로깅하기](https://blog.gangnamunni.com/post/mdc-context-task-decorator/)
 
-[]()
+[[Spring] 멀티쓰레드 환경에서 MDC를 사용해 요청 별로 식별가능한 로그 남기기](https://mangkyu.tistory.com/266?category=761302)

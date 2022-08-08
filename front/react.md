@@ -59,9 +59,9 @@
 
 [[React] create-react-app & Typescript 초기 세팅 완벽 정리](https://velog.io/@junghyeonsu/React-create-react-app-Typescript-%EC%B4%88%EA%B8%B0-%EC%84%B8%ED%8C%85-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC)
 
-[]()
+[Mistakes | 주니어 리액트 개발자인 내가 실수하고 있었던 것](https://velog.io/@edie_ko/Mistakes-%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%B8-%EB%82%B4%EA%B0%80-%EC%8B%A4%EC%88%98%ED%95%98%EA%B3%A0-%EC%9E%88%EC%97%88%EB%8D%98-%EA%B2%83)
 
-[]()
+[[React] StyledComponents와 Emotion을 비교해보기 (2) - css](https://jforj.tistory.com/236)
 
 []()
 

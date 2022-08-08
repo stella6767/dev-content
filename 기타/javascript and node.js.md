@@ -41,14 +41,23 @@
 
 [은닉을 향한 자바스크립트의 여정](https://meetup.toast.com/posts/228)
 
-[]()
+[JavaScript는 잘못이 없다. 정말로.](https://pitzcarraldo.medium.com/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10)
+
+[You Might Be Using Typescript Wrong...](https://www.youtube.com/watch?v=RmGHnYUqQ4k&list=PLiLLi47PCMPjvVIba_5Tzl--QqblJkpnZ&ab_channel=Theo-ping%E2%80%A4gg)
+
+[Stop Using console.log. Use These Methods Instead](https://www.youtube.com/watch?v=qkCwhNkA7dU&list=PLiLLi47PCMPjvVIba_5Tzl--QqblJkpnZ&index=13&ab_channel=WebDevSimplified)
+
+[TypeScript enum을 사용하지 않는 게 좋은 이유를 Tree-shaking 관점에서 소개합니다.](https://engineering.linecorp.com/ko/blog/typescript-enum-tree-shaking/)
+
+[typescript enum 을 union으로 변경하기](https://velog.io/@leehaeun0/typescript-enum-%EC%9D%84-union%EC%9C%BC%EB%A1%9C-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0)
+
+[[Typescript] Enum 왜 쓰지 말아야하죠?](https://velog.io/@sensecodevalue/Typescript-Enum-%EC%99%9C-%EC%93%B0%EC%A7%80-%EB%A7%90%EC%95%84%EC%95%BC%ED%95%98%EC%A3%A0)
+
+[ts-jenum 으로 응집력 있는 TS 코드 작성하기 (feat. EnumClass)](https://jojoldu.tistory.com/621)
 
 []()
 
 []()
-
-[]()
-
 []()
 
 

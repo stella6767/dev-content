@@ -49,6 +49,16 @@
 [Static extension methods in Kotlin](https://stackoverflow.com/questions/28210188/static-extension-methods-in-kotlin)
 
 
+[Kotlin Multiplatform을 이용하여 Android, iOS, Web, Desktop 한 번에 개발하기](https://medium.com/hongbeomi-dev/kotlin-multiplatform%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-android-ios-web-desktop-%ED%95%9C-%EB%B2%88%EC%97%90-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-4935df795161)
+
+[A TypeScript Fan's KotlinJS Adventures • Eamonn Boyle & Garth Gilmour • GOTO 2021](https://www.youtube.com/watch?v=9p60bBBpG6A&list=PLclw_XTIbaKoJrijHvoa90sbwq8ZajZjk)
+
+[Union types for Kotlin](https://github.com/renatoathaydes/kunion)
+
+[코틀린 코드 작성 규칙 (Coding Convention)](https://new93helloworld.tistory.com/385)
+
+[]()
+
 []()
 
 []()
