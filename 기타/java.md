@@ -173,4 +173,16 @@
 
 [[읽고서] 자바 고유락과 Synchronization](https://brunch.co.kr/@kd4/156)
 
+[Java - Convert Object to URL Encoded Form](https://www.woolha.com/tutorials/java-convert-object-to-url-encoded-form)
+
+[Green Thread vs Native Thread](https://perfectacle.github.io/2019/03/10/green-thread-vs-native-thread/)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
 []()
