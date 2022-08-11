@@ -9,7 +9,7 @@
 
 [Non-Blocking Spring Boot with Kotlin Coroutines](https://www.baeldung.com/kotlin/spring-boot-kotlin-coroutines)
 
-[]()
+[Create Logger on Package Level Without Class](https://stackoverflow.com/questions/45346939/create-logger-on-package-level-without-class)
 
 []()
 

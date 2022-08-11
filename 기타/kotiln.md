@@ -57,7 +57,7 @@
 
 [코틀린 코드 작성 규칙 (Coding Convention)](https://new93helloworld.tistory.com/385)
 
-[]()
+[[Android, Kotlin] 제네릭의 in, out 키워드는 무엇일까?](https://hungseong.tistory.com/30)
 
 []()
 

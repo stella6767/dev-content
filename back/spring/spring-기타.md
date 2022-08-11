@@ -18,6 +18,11 @@
 
 [Spring boot 에 caffeine 캐시를 적용해보자 - 어떻게하면 일을 안 할까?](https://blog.yevgnenll.me/posts/spring-boot-with-caffeine-cache)
 
+[Spring Cache, 제대로 사용하기](https://gngsn.tistory.com/157?category=942983)
+
+[]()
+
+[]()
 
 
 ## Spring Etc..
@@ -185,10 +190,10 @@
 [SpringBoot 세션타임 관리하는 방법](https://sdragoon.tistory.com/24)
 <br/>
 
-
 [[Spring Batch] 스프링 배치 강좌 1. 프로그래밍의 꽃. 스프링 배치 Hello World!](https://www.fwantastic.com/2019/12/spring-batch-1-hello-world.html)
 <br/>
 
+[spring response body modify - filter](https://johnmarc.tistory.com/117?category=938632)
 
 ## Spring Security
 

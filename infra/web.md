@@ -20,7 +20,7 @@
 [RESTful API를 위한 6가지 원칙과 네이밍](https://prohannah.tistory.com/156)
 <br/>
 
-[]()
+[프론트엔드 클라이언트에서 JWT를 처리하기 위한 궁극적인 가이드(GraphQL)](https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/)
 <br/>
 
 []()

@@ -57,6 +57,12 @@
 
 [defer, async 스크립트](https://ko.javascript.info/script-async-defer)
 
+[타입 가드](https://radlohead.gitbook.io/typescript-deep-dive/type-system/typeguard)
+
+[]()
+[]()
+[]()
+[]()
 []()
 []()
 

@@ -16,9 +16,9 @@
 
 [.gitignore 파일 다루기](https://kyu9341.github.io/Git/2020/08/23/git_gitignore/)
 
-[]()
+[Git을 잘 써보자- 12. git 복구 - git reflog](https://suwoni-codelab.com/git/2018/04/07/Git-reflog/)
 
-[]()
+[그래프형 커밋 히스토리(git log --graph) 설정](https://minz.dev/4)
 
 []()
 

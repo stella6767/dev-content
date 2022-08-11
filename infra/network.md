@@ -4,7 +4,7 @@
 [패킷의 흐름과 오류를 제어하는 TCP](https://evan-moon.github.io/2019/11/22/tcp-flow-control-error-control/)
 <br/>
 
-[]()
+[ipTIME의 DDNS를 이용하여 운영 서버 구축하기(포트포워딩)](https://chung-develop.tistory.com/59?category=413786)
 <br/>
 
 []()
