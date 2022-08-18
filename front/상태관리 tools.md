@@ -35,6 +35,18 @@
 [[Recoil] selector를 이용한 API 캐싱(feat. useRecoilRefresher)](https://velog.io/@tech-hoon/recoil-selector-api-caching)
 
 
+# React Query
+
+[Store에서 비동기 통신 분리하기 (feat. React Query)](https://techblog.woowahan.com/6339/)
+
+[[리액트] React-query 도입과 Suspense, Error Boundary를 적용해보자](https://all-dev-kang.tistory.com/entry/%EB%A6%AC%EC%95%A1%ED%8A%B8-React-query-%EB%8F%84%EC%9E%85%EA%B3%BC-Suspense-Error-Boundary%EB%A5%BC-%EC%A0%81%EC%9A%A9)
+
+[React-Query 도입을 위한 고민 (feat. Recoil)](https://tech.osci.kr/2022/07/13/react-query/)
+
+[React Query와 함께 Concurrent UI Pattern을 도입하는 방법](https://tech.kakaopay.com/post/react-query-2/)
+
+[]()
+
 
 ## Redux
 

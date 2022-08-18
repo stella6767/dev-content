@@ -59,8 +59,8 @@
 
 [[Android, Kotlin] 제네릭의 in, out 키워드는 무엇일까?](https://hungseong.tistory.com/30)
 
-[]()
+[Effective Java in Kotlin, item 1: Consider static factory methods instead of constructors](https://blog.kotlin-academy.com/effective-java-in-kotlin-item-1-consider-static-factory-methods-instead-of-constructors-8d0d7b5814b2)
 
-[]()
+[Inject into static field Kotlin/Spring Boot](https://stackoverflow.com/questions/50567482/inject-into-static-field-kotlin-spring-boot)
 
 []()

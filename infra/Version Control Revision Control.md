@@ -3,14 +3,11 @@
 
 [pro git doc 한국어 지원됨](https://git-scm.com/book/en/v2)
 <br/>
-
-[ git submodule 삭제 하기](https://jjeong.tistory.com/1345)
+[git submodule 삭제 하기](https://jjeong.tistory.com/1345)
 <br/>
-
 [Git으로 실행취소(Undo)하는 거의 모든 방법](https://yongj.in/git/how-to-undo-almost-anything-with-git/)
 <br/>
-
-[ git stash 명령어 사용하기](https://gmlwjd9405.github.io/2018/05/18/git-stash.html)
+[git stash 명령어 사용하기](https://gmlwjd9405.github.io/2018/05/18/git-stash.html)
 
 [.gitignore가 동작 안할 때 상황별로 해결하기](https://coding-groot.tistory.com/59)
 
@@ -40,6 +37,7 @@
 <br/>
 
 [githubOrganization](https://xively.tistory.com/17)
+
 [githubOrganization2](https://www.lainyzine.com/ko/article/how-to-create-an-organization-for-collaboration-on-github/)
 <br/>
 

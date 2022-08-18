@@ -65,13 +65,13 @@
 
 [Emotion](https://emotion.sh/docs/typescript)
 
-[]()
+[CRA.babel.webpack.설정](https://storycode.tistory.com/419?category=889482)
 
-[]()
+[컴포넌트에 날개를 달아줘, 리액트 Higher-order Component (HoC)](https://velopert.com/3537)
 
-[]()
+[Javascript Promise, async/await MicroTask queue 동작차이](https://dkrnfls.tistory.com/362)
 
-[]()
+[Javascript 프론트엔드 MV* 아키텍처 (원글 + 생각)😉](https://dkrnfls.tistory.com/370?category=1026589)
 
 []()
 

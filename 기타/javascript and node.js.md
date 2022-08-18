@@ -59,7 +59,8 @@
 
 [타입 가드](https://radlohead.gitbook.io/typescript-deep-dive/type-system/typeguard)
 
-[]()
+[TypeScript 쓰면서 OpenAPI Generator 는 안 쓴다고?](https://min9nim.vercel.app/2022-04-07-openapi-generator/)
+
 []()
 []()
 []()
