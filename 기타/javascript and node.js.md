@@ -61,8 +61,20 @@
 
 [TypeScript 쓰면서 OpenAPI Generator 는 안 쓴다고?](https://min9nim.vercel.app/2022-04-07-openapi-generator/)
 
+[Making Sense of the Tricky Parts of JavaScript](https://www.youtube.com/watch?v=tiRhFGnCltw&list=LLg19zd5p7T_YkjpHp-h0YkQ&index=3&ab_channel=Academind)
+
+[[인간 JS 엔진 되기 1-7]this를 분석할 수 없는 케이스](https://www.youtube.com/watch?v=3l2yiP0ch3U&list=LLg19zd5p7T_YkjpHp-h0YkQ&index=4&ab_channel=ZeroChoTV)
+
+[자바스크립트 - 조심해야할 Async](https://www.youtube.com/watch?v=e09U4QOUOg4&list=LLg19zd5p7T_YkjpHp-h0YkQ&index=9&ab_channel=%EC%BD%94%EB%93%9C%EA%B9%8E%EB%8A%94%EB%85%B8%EC%9D%B8)
+
+[JavaScript Pro Tips - Code This, NOT That](https://www.youtube.com/watch?v=Mus_vwhTCq0&list=LLg19zd5p7T_YkjpHp-h0YkQ&index=16&ab_channel=Fireship)
+
 []()
+
 []()
+
+[]()
+
 []()
 []()
 []()

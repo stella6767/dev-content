@@ -73,13 +73,13 @@
 
 [Javascript 프론트엔드 MV* 아키텍처 (원글 + 생각)😉](https://dkrnfls.tistory.com/370?category=1026589)
 
-[]()
+[Junior Vs Senior Code - How To Write Better Code As A Web Developer - React](https://www.youtube.com/watch?v=0yzoAbrjV6k&list=LLg19zd5p7T_YkjpHp-h0YkQ&index=11&ab_channel=WebDevSimplified)
 
-[]()
+[React - List와 Key의 중요성. 디버깅의 악몽을 피하자!](https://www.youtube.com/watch?v=QC3PtSlzp3s&list=LLg19zd5p7T_YkjpHp-h0YkQ&index=12&ab_channel=%EB%B3%84%EC%BD%94%EB%94%A9)
 
-[]()
+[All useEffect Mistakes Every Junior React Developer Makes](https://www.youtube.com/watch?v=QQYeipc_cik&list=LLg19zd5p7T_YkjpHp-h0YkQ&index=19&ab_channel=LamaDev)
 
-[]()
+[6 State Mistakes Every Junior React Developer Makes](https://www.youtube.com/watch?v=Fhu5cu864ag&list=LLg19zd5p7T_YkjpHp-h0YkQ&index=27&ab_channel=LamaDev)
 
 []()
 

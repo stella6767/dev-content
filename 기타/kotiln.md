@@ -63,4 +63,6 @@
 
 [Inject into static field Kotlin/Spring Boot](https://stackoverflow.com/questions/50567482/inject-into-static-field-kotlin-spring-boot)
 
-[]()
+[코틀린(Kotlin) - 초간단 파일 저장 방법!](https://0391kjy.tistory.com/36?category=742907)
+
+[코틀린(Kotlin) - 지연 계산(lazy) 컬렉션 연산 : Sequence](https://0391kjy.tistory.com/42?category=742907)

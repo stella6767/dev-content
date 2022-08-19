@@ -179,7 +179,7 @@
 
 [Java - CountDownLatch 사용 방법](https://codechacha.com/ko/java-countdownlatch/)
 
-[]()
+[Convert from days to milliseconds](https://stackoverflow.com/questions/6980376/convert-from-days-to-milliseconds)
 
 []()
 
