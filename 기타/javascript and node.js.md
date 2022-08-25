@@ -69,7 +69,7 @@
 
 [JavaScript Pro Tips - Code This, NOT That](https://www.youtube.com/watch?v=Mus_vwhTCq0&list=LLg19zd5p7T_YkjpHp-h0YkQ&index=16&ab_channel=Fireship)
 
-[]()
+[How to write Immediately-invoked / Anonymous Async Functions (IIFE)](https://usefulangle.com/post/248/javascript-async-anonymous-function-iife)
 
 []()
 

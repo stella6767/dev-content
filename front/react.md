@@ -81,6 +81,16 @@
 
 [6 State Mistakes Every Junior React Developer Makes](https://www.youtube.com/watch?v=Fhu5cu864ag&list=LLg19zd5p7T_YkjpHp-h0YkQ&index=27&ab_channel=LamaDev)
 
+[React 마스터하기 — TypeScript를 사용할 때의 모범 사례](https://medium.com/codex/mastering-react-good-practices-when-using-typescript-7240cbaf4fc6)
+
+[React와 TypeScript로 깔끔한 코드를 작성하기 위해 꼭 알아야 할 10가지 패턴✨🛀](https://medium.com/@adarshrai3011/10-must-know-patterns-for-writing-clean-code-with-react-and-typescript-d2fe9ac6ccdd)
+
+[이 패턴은 React Hooks를 더 깔끔하게 만듭니다.](https://betterprogramming.pub/this-pattern-will-make-your-react-hooks-cleaner-ca9deba5d58d)
+
+[useId(), the new hook introduced in React 18](https://towardsdev.com/useid-the-new-hook-introduced-in-react-18-1ef2ce5c5353)
+
+[Getting Started with Logging in React](https://meticulous.ai/blog/getting-started-with-react-logging/)
+
 []()
 
 []()

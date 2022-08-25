@@ -34,6 +34,7 @@
 
 [[Recoil] selector를 이용한 API 캐싱(feat. useRecoilRefresher)](https://velog.io/@tech-hoon/recoil-selector-api-caching)
 
+[Recoil with Storage (feat. effects)](https://tech.osci.kr/2022/07/05/recoil-react-js-state-management/)
 
 # React Query
 
@@ -44,6 +45,18 @@
 [React-Query 도입을 위한 고민 (feat. Recoil)](https://tech.osci.kr/2022/07/13/react-query/)
 
 [React Query와 함께 Concurrent UI Pattern을 도입하는 방법](https://tech.kakaopay.com/post/react-query-2/)
+
+[React-Query에서 배운 것과 다음 프로젝트에서 사용하지 않는 이유](https://medium.com/duda/what-i-learned-from-react-query-and-why-i-will-not-use-it-in-my-next-project-a459f3e91887)
+
+[리액트 쿼리로 에러처리하기](https://tecoble.techcourse.co.kr/post/2021-10-01-react-query-error-handling/)
+
+[React ref 톺아보기](https://tecoble.techcourse.co.kr/post/2021-05-15-react-ref/)
+
+[react-query](https://kyounghwan01.github.io/blog/React/react-query/basic/#%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%B2)
+
+[My구독의 React Query 전환기](https://tech.kakao.com/2022/06/13/react-query/)
+
+[]()
 
 []()
 
