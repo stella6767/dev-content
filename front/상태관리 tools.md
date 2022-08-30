@@ -56,8 +56,21 @@
 
 [My구독의 React Query 전환기](https://tech.kakao.com/2022/06/13/react-query/)
 
-[]()
+[[번역] #1: 현실적인 리액트 쿼리](https://parang.tech/react/2022-react-01/)
 
+[Five Clever Hacks for React-Query and SWR](https://www.youtube.com/watch?v=JaM2rExmmqs&ab_channel=JackHerrington)
+
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
 []()
 
 

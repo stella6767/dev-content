@@ -223,8 +223,7 @@
 [Spring Boot에서 JSON API에 XSS Filter 적용하기](https://jojoldu.tistory.com/470)
 <br/>
 
-
-
+[[Spring Security] @AuthenticationPrincipal 어노테이션은 어떻게 동작할까??](https://sas-study.tistory.com/410)
 
 
 
