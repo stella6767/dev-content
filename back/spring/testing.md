@@ -82,9 +82,9 @@ jdbc:tc:postgresql:///schema_name?TC_INITSCRIPT=file:src/test/resources/schema.s
 
 [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/#overview)
 
-[]()
+[JUnit5 완벽 가이드](https://donghyeon.dev/junit/2021/04/11/JUnit5-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C/)
 
-[]()
+[Spring Boot의 @TestConfiguration 주석으로 테스트하기](https://reflectoring.io/spring-boot-testconfiguration/)
 
 []()
 
