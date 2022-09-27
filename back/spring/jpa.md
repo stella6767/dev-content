@@ -96,9 +96,9 @@
 
 [Why, When and How to Use DTO Projections with JPA and Hibernate](https://thorben-janssen.com/dto-projections/)
 
-[]()
+[To-Many 연관으로 DTO 가져오기](https://thorben-janssen.com/fetching-dtos-with-to-many-association/)
 
-[]()
+[Hibernate TupleTransformer를 사용하는 가장 좋은 방법](https://vladmihalcea.com/hibernate-tupletransformer/)
 
 []()
 
