@@ -100,7 +100,7 @@
 
 [Hibernate TupleTransformer를 사용하는 가장 좋은 방법](https://vladmihalcea.com/hibernate-tupletransformer/)
 
-[]()
+[JPA로 RDB에 JSON 타입 다루기](https://danawalab.github.io/spring/2022/08/05/Jpa-Json-Type.html)
 
 []()
 

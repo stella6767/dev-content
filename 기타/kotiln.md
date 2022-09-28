@@ -68,3 +68,13 @@
 [코틀린(Kotlin) - 지연 계산(lazy) 컬렉션 연산 : Sequence](https://0391kjy.tistory.com/42?category=742907)
 
 [Railway Oriented Programming in Kotlin](https://proandroiddev.com/railway-oriented-programming-in-kotlin-f1bceed399e5)
+
+[Annotation 안에서 무슨 일이 일어나는 거지? 1편](https://blog.gangnamunni.com/post/kotlin-annotation/)
+
+[]()
+
+[]()
+
+[]()
+
+[]()

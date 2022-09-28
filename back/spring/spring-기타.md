@@ -93,6 +93,14 @@
 
 [[spring-boot] 2.4 부터 변경된 구성파일 처리방식 살펴보기](http://honeymon.io/tech/2021/01/16/spring-boot-config-data-migration.html)
 
+[Spring MVC Redirect 처리중에 발생한 Out Of Memory 원인 분석하기](https://taetaetae.github.io/2019/01/10/spring-redirect-oom/)
+
+[]()
+
+[]()
+
+[]()
+
 
 ## Spring Core
 
