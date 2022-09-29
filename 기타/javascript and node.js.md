@@ -75,8 +75,10 @@
 https://sas-study.tistory.com/410
 [JavaScript의 관점 AOP 프로그래밍](https://blog.bitsrc.io/aspect-oriented-programming-in-javascript-c4cb43f6bfcc)
 
+[js - Named Parameter](https://blog.naver.com/PostView.nhn?isHttpsRedirect=true&blogId=dktmrorl&logNo=221908298329&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView)
+
 []()
-[]()
+
 []()
 
 
@@ -84,6 +86,7 @@ https://sas-study.tistory.com/410
 
 [Node.js에 관해 후회하는 10가지 - Ryan Dahl - JSConf EU](https://www.youtube.com/watch?v=M3BM9TB-8yA&list=PLiLLi47PCMPjvVIba_5Tzl--QqblJkpnZ&index=274&ab_channel=JSConf)
 
+[프로세스와 스레드 (feat node.js)](https://overcome-the-limits.tistory.com/517)
 
 
 # jQuery

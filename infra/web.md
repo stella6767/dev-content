@@ -23,7 +23,7 @@
 [프론트엔드 클라이언트에서 JWT를 처리하기 위한 궁극적인 가이드(GraphQL)](https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/)
 <br/>
 
-[]()
+[HTTPS를 쓰면 패스워드를 평문으로 보내도 될까?](https://yoonhogo.github.io/blog/2020-09-08/HTTPS-plain-text-safety/)
 <br/>
 
 
