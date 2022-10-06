@@ -28,9 +28,9 @@ aws configure --profile "your username"
 
 [[AWS] - 회사에 매달 청구되는 aws 비용을 1,000 달러이상 절감했던 이야기](https://kim-jong-hyun.tistory.com/133)
 
-[]()
+[[aws] MediaConvert + lambda 를 이용해 원하는 화질로 파일 분리하기](https://lemontia.tistory.com/1034)
 
-[]()
+[A Basic AWS Lambda Example With Java](https://www.baeldung.com/java-aws-lambda)
 
 []()
 

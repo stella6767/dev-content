@@ -95,6 +95,16 @@
 
 [Spring MVC Redirect 처리중에 발생한 Out Of Memory 원인 분석하기](https://taetaetae.github.io/2019/01/10/spring-redirect-oom/)
 
+[만들면서 배우는 아키텍처 그리고 매핑 프레임워크 MapStruct를 사용한 매핑](https://wedul.site/703?category=595982)
+
+[로컬에서 임베디드 S3 사용하기](https://willseungh0.tistory.com/139)
+
+[Spring Boot - FCM Push 서버 구축하기](https://galid1.tistory.com/740)
+
+[]()
+
+[]()
+
 []()
 
 []()

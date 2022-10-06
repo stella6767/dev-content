@@ -12,3 +12,16 @@
 [s3 bean 여러개](https://stackoverflow.com/questions/60557800/how-to-connect-two-aws-s3-buckets-from-spring-boot-application)
 
 
+[Kotlin, Spring Cloud Function, AWS Lambda 함수 제작하기](https://jsonobject.tistory.com/617)
+
+[Amazon EC2 + SSL from Let’s encrypt in Spring Boot application](https://medium.com/@michal_4609/amazon-ec2-ssl-from-lets-encrypt-in-spring-boot-application-e29cf9eec02)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()

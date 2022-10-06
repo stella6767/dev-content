@@ -86,9 +86,12 @@ jdbc:tc:postgresql:///schema_name?TC_INITSCRIPT=file:src/test/resources/schema.s
 
 [Spring Boot의 @TestConfiguration 주석으로 테스트하기](https://reflectoring.io/spring-boot-testconfiguration/)
 
-[]()
+[Spring RestDoc + Swagger](https://shirohoo.github.io/backend/test/2021-07-17-swagger-rest-docs/)
 
-[]()
-[]()
-[]()
+[jacoco로 테스트 커버리지 관리하기](https://shirohoo.github.io/backend/test/2021-07-18-jacoco/)
+
+[Swagger와 Spring Restdocs의 우아한 조합 (by OpenAPI Spec)](https://taetaetae.github.io/posts/a-combination-of-swagger-and-spring-restdocs/)
+
+[Spring REST Docs to Postman/Insomnia Converter](https://github.com/fbenz/restdocs-to-postman)
+
 []()
