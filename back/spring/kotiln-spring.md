@@ -11,7 +11,9 @@
 
 [Create Logger on Package Level Without Class](https://stackoverflow.com/questions/45346939/create-logger-on-package-level-without-class)
 
-[]()
+[Kotlin 데이터 클래스용 Spring Boot ConfigurationProperties 가이드](https://towardsdatascience.com/a-guide-to-use-spring-boots-configurationproperties-annotation-in-kotlin-s-dataclass-1341c63110f4)
+
+[[Kotlin] Application 설정값 가져오는 방법 - ConfigurationProperties로 구성](https://jessyt.tistory.com/m/110)
 
 []()
 
@@ -20,7 +22,6 @@
 []()
 
 []()
-
 []()
 
 []()

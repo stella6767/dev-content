@@ -71,7 +71,7 @@
 
 [Annotation 안에서 무슨 일이 일어나는 거지? 1편](https://blog.gangnamunni.com/post/kotlin-annotation/)
 
-[]()
+[Kotlin (꿀)Tips!](https://jessyt.tistory.com/m/175)
 
 []()
 

@@ -101,6 +101,18 @@
 
 [Spring Boot - FCM Push 서버 구축하기](https://galid1.tistory.com/740)
 
+[SpringBoot-@ShedLock 설정 방법](https://yejipro.tistory.com/m/entry/spring-boot-ShedLock-%EC%84%A4%EC%A0%95-%EB%B0%A9%EB%B2%95)
+
+[SpringBoot-@PathVariable에 특수문자 허용](https://yejipro.tistory.com/m/entry/spring-boot-PathVariable%EC%97%90-%ED%8A%B9%EC%88%98%EB%AC%B8%EC%9E%90-%ED%97%88%EC%9A%A9)
+
+[스프링을 활용한 쿼리와 명령간에 데이터 동기화](https://sejoung.github.io/2020/04/2020-04-28-Spring_and_Data_Synchronization_Between_Queries_and_Commands/#%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%BF%BC%EB%A6%AC%EC%99%80-%EB%AA%85%EB%A0%B9%EA%B0%84%EC%97%90-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8F%99%EA%B8%B0%ED%99%94)
+
+[Spring Boot에서 @Async로 프로덕션 문제 수정](https://medium.com/codex/fixing-production-issue-with-async-in-spring-boot-ab4c148561d1)
+
+[]()
+
+[]()
+
 []()
 
 []()
