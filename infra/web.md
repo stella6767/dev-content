@@ -27,3 +27,4 @@
 <br/>
 
 
+[webSocket 으로 개발하기 전에 알고 있어야 할 것들](https://adrenal.tistory.com/20?category=301635)

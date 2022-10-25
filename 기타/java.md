@@ -181,8 +181,31 @@
 
 [Convert from days to milliseconds](https://stackoverflow.com/questions/6980376/convert-from-days-to-milliseconds)
 
+[Java를 사용한 웹 스크래핑 소개](https://www.scrapingbee.com/blog/introduction-to-web-scraping-with-java/)
+
+[Failsafe](https://failsafe.dev/)
+
+[Streams API를 사용할 때의 10가지 미묘한 실수](https://blog.jooq.org/java-8-friday-10-subtle-mistakes-when-using-the-streams-api/)
+
+[Java의 10가지 쉬운 성능 최적화](https://blog.jooq.org/top-10-easy-performance-optimisations-in-java/)
+
+[자바에 대해 몰랐던 10가지](https://blog.jooq.org/10-things-you-didnt-know-about-java/)
+
+[유용하고 알려지지 않은 Java 기능](https://piotrminkowski.com/2022/01/05/useful-unknown-java-features/)
+
+[며칠간의 스칼라 후 자바로 돌아오는 가장 짜증나는 10가지](https://blog.jooq.org/the-10-most-annoying-things-coming-back-to-java-after-some-days-of-scala/)
+
+[]()
+
 []()
 
 []()
 
 []()
+
+[]()
+
+[]()
+
+[]()
+
