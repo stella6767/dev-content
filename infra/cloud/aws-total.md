@@ -32,7 +32,7 @@ aws configure --profile "your username"
 
 [A Basic AWS Lambda Example With Java](https://www.baeldung.com/java-aws-lambda)
 
-[]()
+[AWS Lambda를 백엔드 API로 이용 시주의해야할 점!](https://medium.com/zigbang/aws-lambda%EB%A5%BC-%EB%B0%B1%EC%97%94%EB%93%9C-api%EB%A1%9C-%EC%9D%B4%EC%9A%A9-%EC%8B%9C%EC%A3%BC%EC%9D%98%ED%95%B4%EC%95%BC%ED%95%A0-%EC%A0%90-775165357eee)
 
 []()
 

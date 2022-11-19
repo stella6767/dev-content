@@ -94,4 +94,8 @@ jdbc:tc:postgresql:///schema_name?TC_INITSCRIPT=file:src/test/resources/schema.s
 
 [Spring REST Docs to Postman/Insomnia Converter](https://github.com/fbenz/restdocs-to-postman)
 
-[]()
+[TestContainer 로 멱등성있는 integration test 환경 구축하기](https://medium.com/riiid-teamblog-kr/testcontainer-%EB%A1%9C-%EB%A9%B1%EB%93%B1%EC%84%B1%EC%9E%88%EB%8A%94-integration-test-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-4a6287551a31)
+
+[LocalStack을 활용한 Integration Test 환경 만들기](https://techblog.woowahan.com/2638/)
+
+[jenkins pipline에서 docker test container issue..](https://github.com/testcontainers/testcontainers-java/issues/613)

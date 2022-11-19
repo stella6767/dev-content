@@ -42,6 +42,8 @@
 [IntelliJ 내가쓰는 25가지 플러그인 목록](https://code-boki.tistory.com/4?category=934130)
 
 
+[[intellij] 동일한 단어를 Multi-line 으로 블록하는 방법](https://happy-coding-day.tistory.com/entry/intellij-%EB%8F%99%EC%9D%BC%ED%95%9C-%EB%8B%A8%EC%96%B4%EB%A5%BC-Multi-line-%EC%9C%BC%EB%A1%9C-%EB%B8%94%EB%A1%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+
 # VS code
 
 [코딩 인생 꿀템 VSC 단축키 5분 정리해드림](https://www.youtube.com/watch?v=Wn7j5dfbJF4&list=PLclw_XTIbaKoJrijHvoa90sbwq8ZajZjk&index=46)

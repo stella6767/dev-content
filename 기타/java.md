@@ -195,9 +195,9 @@
 
 [며칠간의 스칼라 후 자바로 돌아오는 가장 짜증나는 10가지](https://blog.jooq.org/the-10-most-annoying-things-coming-back-to-java-after-some-days-of-scala/)
 
-[]()
+[Java에 있었으면 하는 상위 10개의 Ceylon 언어 기능](https://blog.jooq.org/top-10-ceylon-language-features-i-wish-we-had-in-java/)
 
-[]()
+[List 순회 중 만난 ConcurrentModificationException과 컬렉션 불변성](https://m.blog.naver.com/tmondev/220393974518)
 
 []()
 
