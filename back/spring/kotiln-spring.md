@@ -15,7 +15,7 @@
 
 [[Kotlin] Application 설정값 가져오는 방법 - ConfigurationProperties로 구성](https://jessyt.tistory.com/m/110)
 
-[]()
+[KVision, 풀스택 Kotlin 웹 프레임워크 소개](https://jsonobject.tistory.com/553)
 
 []()
 

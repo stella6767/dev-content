@@ -73,7 +73,7 @@
 
 [Kotlin (꿀)Tips!](https://jessyt.tistory.com/m/175)
 
-[]()
+[코루틴을 사용한 안전한 예외처리 - 1](https://thisdev.tistory.com/14)
 
 []()
 

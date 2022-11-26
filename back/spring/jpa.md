@@ -104,7 +104,7 @@
 
 [[스프링, 스프링부트]JPA 도입 - OneToOne 관계에서의 LazyLoading #1](https://ykh6242.tistory.com/m/entry/Spring-Cache-Abstraction-%EC%A0%95%EB%A6%AC)
 
-[]()
+[JPA @ColumnDefault에 대한 오해](https://eocoding.tistory.com/m/71)
 
 []()
 
