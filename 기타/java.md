@@ -199,13 +199,20 @@
 
 [List 순회 중 만난 ConcurrentModificationException과 컬렉션 불변성](https://m.blog.naver.com/tmondev/220393974518)
 
-[]()
+[[Java] Base64 디코딩 중 Illegal base64 character a 에러 해결](https://shanepark.tistory.com/487)
+
+[모던 자바 인 액션 스트림에 대해 읽다가 생긴 의문들 (테스트로 해결하기!)](https://eocoding.tistory.com/106)
+
+[IllegalArgumentException: Conflicting setter definitions for property with more than 2 setters #3125](https://github.com/FasterXML/jackson-databind/issues/3125)
 
 []()
 
 []()
-
 []()
-
+[]()
+[]()
+[]()
+[]()
+[]()
 []()
 

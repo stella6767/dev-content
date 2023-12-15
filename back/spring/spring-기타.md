@@ -113,16 +113,33 @@
 
 [Spring Native](https://litaro.tistory.com/entry/Spring-Native-Image)
 
-[]()
+[Spring에서 Server-Sent-Events 구현하기](https://tecoble.techcourse.co.kr/post/2022-10-11-server-sent-events/)
+
+[jte issue(solve)](https://github.com/casid/jte/issues/303)
+
+[Connection prematurely closed BEFORE response 에러 대응기](https://alden-kang.tistory.com/48)
+
+[AWS S3 클라이언트 속도 향상](https://blog.duyidong.com/2021/08/07/speed-up-s3-download/)
+
+[Spring Boot Hikari Connection Pool 에러 핸들링](https://jgrammer.tistory.com/entry/Spring-Boot-Hikari-Connection-Pool-%EC%97%90%EB%9F%AC-%ED%95%B8%EB%93%A4%EB%A7%81)
+
+[[장애회고] ORM(JPA) 사용 시 예상치 못한 쿼리로 인한 HikariCP 이슈](https://saramin.github.io/2023-04-27-order-error/)
+
+[HikariCP Dead lock에서 벗어나기 (실전편)](https://techblog.woowahan.com/2663/)
+
+[[SpringBoot HikariCp] HikariCP 속성 설정 가이드](https://freedeveloper.tistory.com/250)
+
+[How to Download Large Files from Amazon S3 Bucket in Spring Boot](https://www.tutorialsbuddy.com/amazon-s3-download-files#gsc.tab=0)
+
+[[AWS] 2. S3 대용량파일 클라이언트단에서 다운로드하기(JAVA)](https://doomggakk.github.io/aws/aws_1_S3_presignedurl/)
+
+[Lock을 사용할 때 트랜잭션 범위를 고려하자](https://medium.com/@dori_dori/lock%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-transaction-isolation%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%98%EC%9E%90-73351f0113e)
 
 []()
 
 []()
 
 []()
-
-[]()
-
 
 ## Spring Core
 
@@ -254,10 +271,6 @@
 <br/>
 
 [[Spring Security] @AuthenticationPrincipal 어노테이션은 어떻게 동작할까??](https://sas-study.tistory.com/410)
-
-
-
-
 
 
 

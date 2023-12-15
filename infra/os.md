@@ -22,7 +22,7 @@
 
 [Jenkins에서 sudo 권한 사용](https://hyunmin1906.tistory.com/282)
 
-[]()
+[[MAC] 사용중인 포트 찾아서, Kill 하기](https://88240.tistory.com/475)
 
 []()
 
